@@ -6,12 +6,14 @@ body{
 .contents{
     margin-left: 300px;
     margin-right: 300px;
+    background-color: white;
 }
 
 .cabecalho{
     display: grid;
     grid-column: span 2;
     gap: 0px;
+    margin-left: 10px;
 }
 
 .img{
@@ -38,17 +40,21 @@ body{
 .objetivo{
     margin-top: 40px;
      line-height: 5px;
+     margin-left: 10px;
 }
 
 .formacao{
     margin-top: 50px;
     line-height: 5px;
+    margin-left: 10px;
 }
 .experiencia{
     margin-top: 50px;
     line-height: 5px;
+    margin-left: 10px;
 }
 .qualificacao{
     margin-top: 50px;
     line-height: 5px;
+    margin-left: 10px;
 }
