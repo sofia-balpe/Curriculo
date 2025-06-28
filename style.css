@@ -7,6 +7,8 @@ body{
     margin-left: 300px;
     margin-right: 300px;
     background-color: white;
+    border: 3px solid rgb(255, 111, 135);
+    border-radius: 15px;
 }
 
 .cabecalho{
